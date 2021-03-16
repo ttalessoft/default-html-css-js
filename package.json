@@ -4,7 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-datepicker": "^1.9.0",
     "browser-sync": "^2.26.14",
+    "font-awesome": "^4.7.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-concat": "^2.6.1",
@@ -23,6 +26,7 @@
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "gulp-babel": "^8.0.0",
-    "gulp-uglify": "^3.0.2"
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0"
   }
 }
