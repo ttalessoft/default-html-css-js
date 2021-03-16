@@ -1,0 +1,1 @@
+"use strict";const aux=document.getElementById("aux"),bac=document.getElementById("dd1"),bac2=document.getElementById("dd333");console.log("ttales - teste"),console.log(moment().format("DD.MM.YY H:mm:ss")),$(".title").hide();
